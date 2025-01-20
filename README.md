@@ -60,18 +60,30 @@ const developer = {
 <hr style="border: 1px solid #444; margin: 20px 0;">
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keiske0408&theme=dark" alt="keiske0408" style="max-width: 100%; height: auto; flex: 1 1 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=keiske0408&show_icons=true&theme=radical" alt="keiske0408" style="max-width: 100%; height: auto; flex: 1 1 300px;">
-  <img src="https://github-profile-trophy.vercel.app?username=keiske0408&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" style="max-width: 100%; height: auto; flex: 1 1 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keiske0408&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+
+<!-- Parent Div for Centering -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 20px 0;">
+  
+  <!-- First Division (Images 1 and 2) -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keiske0408&theme=dark" alt="keiske0408" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=keiske0408&show_icons=true&theme=radical" alt="keiske0408" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+  </div>
+
+  <!-- Second Division (Images 3 and 4) -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://github-profile-trophy.vercel.app?username=keiske0408&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keiske0408&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+  </div>
+
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=keiske0408&color=blueviolet&style=flat-square" alt="Profile Views" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+  </p>
+
 </div>
- <p align="center">
- <img src="https://komarev.com/ghpvc/?username=keiske0408&color=blueviolet&style=flat-square" alt="Profile Views" style="max-width: 100%; height: auto; flex: 1 1 300px;">
- </p>
 
 <hr style="border: 1px solid #424; margin: 20px 0;">
-
 
 ## 📫 Let's Connect!
 <p align="center">
