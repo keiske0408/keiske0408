@@ -60,19 +60,18 @@ const developer = {
 <hr style="border: 1px solid #444; margin: 20px 0;">
 
 ## 📊 GitHub Stats
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keiske0408&theme=dark" alt="keiske0408" />
-  <img src="https://github-readme-stats.vercel.app/api?username=keiske0408&show_icons=true&theme=radical" alt="keiske0408">
-   <img src="https://github-profile-trophy.vercel.app?username=keiske0408&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keiske0408&show_icons=true&locale=en&layout=compact&theme=radical" alt="keiske0408" />
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keiske0408&theme=dark" alt="keiske0408" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=keiske0408&show_icons=true&theme=radical" alt="keiske0408" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+  <img src="https://github-profile-trophy.vercel.app?username=keiske0408&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keiske0408&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+</div>
+ <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=keiske0408&color=blueviolet&style=flat-square" alt="Profile Views" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+ </p>
 
-<p align="center">
- 
-   <img src="https://komarev.com/ghpvc/?username=keiske0408&color=blueviolet&style=flat-square">
-</p>
+<hr style="border: 1px solid #424; margin: 20px 0;">
 
-<hr style="border: 1px solid #424; margin: 10px 0;">
 
 ## 📫 Let's Connect!
 <p align="center">
