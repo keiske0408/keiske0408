@@ -61,27 +61,30 @@ const developer = {
 
 ## 📊 GitHub Stats
 
-<!-- Parent Div for Centering -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 20px 0;">
-  
-  <!-- First Division (Images 1 and 2) -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keiske0408&theme=dark" alt="keiske0408" style="max-width: 100%; height: auto; flex: 1 1 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=keiske0408&show_icons=true&theme=radical" alt="keiske0408" style="max-width: 100%; height: auto; flex: 1 1 300px;">
-  </div>
+<div align="center">
 
-  <!-- Second Division (Images 3 and 4) -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <img src="https://github-profile-trophy.vercel.app?username=keiske0408&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" style="max-width: 100%; height: auto; flex: 1 1 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keiske0408&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; height: auto; flex: 1 1 300px;">
-  </div>
+  <!-- First Row: GitHub Stats and Top Languages -->
+  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=keiske0408&show_icons=true&theme=radical&hide_border=true" alt="keiske0408's github stats" />
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=keiske0408&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </p>
 
-  <!-- Profile Views -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=keiske0408&color=blueviolet&style=flat-square" alt="Profile Views" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+  <!-- Second Row: Trophy and Streak Stats -->
+  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
+    <!-- Trophy Graph -->
+      <img src="https://github-profile-trophy.vercel.app?username=keiske0408&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" style="max-width: 100%; height: auto; flex: 1 1 300px;">
+    <!-- Streak Stats -->
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=keiske0408&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </p>
+
+  <!-- Profile Views Counter -->
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=keiske0408&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
+
+
 
 <hr style="border: 1px solid #424; margin: 20px 0;">
 
